@@ -21,3 +21,4 @@ A Python Flask app to remotely shutdown, restart, lock, or sleep your PC with a 
 
 ```bash
 pip install flask pystray pillow
+
